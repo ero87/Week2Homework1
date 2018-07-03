@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="imageline">113dp</dimen>
+    <dimen name="text1_width">204dp</dimen>
+    <dimen name="text1Heigt">46dp</dimen>
+    <dimen name="text1Size">20sp</dimen>
+    <dimen name="text2width">200dp</dimen>
+    <dimen name="text2Height">67dp</dimen>
+    <dimen name="text2margin">5dp</dimen>
+    <dimen name="text2Start">15dp</dimen>
+</resources>
